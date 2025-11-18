@@ -1,5 +1,7 @@
 # Playwright Login Example
 
+[![Run Tests](https://github.com/Jviejo/playwright-sample/actions/workflows/test.yml/badge.svg)](https://github.com/Jviejo/playwright-sample/actions/workflows/test.yml)
+
 Ejemplo de implementación de login con Next.js y Playwright para testing.
 
 ## Características
